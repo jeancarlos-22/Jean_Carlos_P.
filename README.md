@@ -45,9 +45,9 @@ Convertirme en un  **Desarrollador Web Full Stack**, iniciando en **Front-End** 
 
 ## 📂 Proyectos destacados  
 
-- 🔹 [Proyecto 1 – Pagina Web Tienda Jabones](https://github.com/jeancarlos-22/Morris.git)  
-- 🔹 [Proyecto 2 – Aplicación To-Do List ] 
-- 🔹 [Proyecto 3 – Página Responsive con HTML y CSS]  
+- 🔹 [Proyecto 1 – Pagina Web de Productos de aseo ](https://github.com/jeancarlos-22/Morris.git)  
+- 🔹 [Proyecto 2 –  ] 
+- 🔹 [Proyecto 3 – ]  
 
 ---
 
@@ -61,8 +61,8 @@ Convertirme en un  **Desarrollador Web Full Stack**, iniciando en **Front-End** 
 ## 📫 Contacto  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean_Carlos-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)  
-[![Correo](https://img.shields.io/badge/Email-jeancarlos--22@hotmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeancarlos-22@hotmail.com)  
+[![Correo](https://img.shields.io/badge/Email-jeancarlos-22@hotmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeancarlos-22@hotmail.com)  
 
 ---
 
-💬 _"Siempre ayudar a los demas sin esperar nada cambio , ya que el conocimiento no se le puede coibir a nadie."_  
+💬 _"Siempre ayudar a los demas sin esperar nada cambio , ya que el conocimiento no se le puede coibe a nadie."_  
