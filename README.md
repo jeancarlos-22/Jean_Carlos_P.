@@ -12,7 +12,7 @@
 - 📘 **Licenciatura en Informática** – 6° semestre  
 - 📘 **Ingeniería en Informática** – 3° semestre  
 - 📘 **Tecnología en Desarrollo de Software** – 2° semestre  
-- 📚 Cursos en **Desarrollo Web**, **Ciberseguridad** y **Git/GitHub**  
+- 📚 Cursos en **Desarrollo Web**, **Ciberseguridad** , **Git/GitHub y mas**  
 
 ---
 
