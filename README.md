@@ -59,9 +59,8 @@ Convertirme en un  **Desarrollador Web Full Stack**, iniciando en **Front-End** 
 ---
 
 ## 📫 Contacto  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean_Carlos-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)  
-[![Correo](https://img.shields.io/badge/Email-jeancarlos-22@hotmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeancarlos-22@hotmail.com)  
+**jeancarlos-22@hotmail.com**
+ 
 
 ---
 
