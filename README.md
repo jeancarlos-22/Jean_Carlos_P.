@@ -1,5 +1,4 @@
-<!-- Banner -->
-![Banner](https://i.ibb.co/gVqVtsF/github-banner.png)
+
 
 # 👋 Hola, soy Jean Carlos  
 
@@ -45,16 +44,9 @@ Convertirme en un  **Desarrollador Web Full Stack**, iniciando en **Front-End** 
 
 ## 📂 Proyectos destacados  
 
-- 🔹 [Proyecto 1 – Pagina Web de Productos de aseo ](https://github.com/jeancarlos-22/Morris.git)  
-- 🔹 [Proyecto 2 –  ] 
+- 🔹 [Proyecto 1 – Pagina Web de Productos de Aseo ](https://github.com/jeancarlos-22/Morris.git)  
+- 🔹 [Proyecto 2 – Pagina Web de Empresa de sonido "Sonido Willy" ] 
 - 🔹 [Proyecto 3 – ]  
-
----
-
-## 📊 Estadísticas de GitHub  
-
-![Jean Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=usuario&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usuario&layout=compact&theme=tokyonight)  
 
 ---
 
