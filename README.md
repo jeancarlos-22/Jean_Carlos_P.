@@ -40,14 +40,8 @@ Convertirme en un  **Desarrollador Web Full Stack**, iniciando en **Front-End** 
 - 📊 Retos de desarrollo web en **Desafíos LATAM**  
 - 🛡️ Fundamentos de **Ciberseguridad** en Cisco Networking Academy y mas 
 
----
 
-## 📂 Proyectos destacados  
-
-- 🔹 [Proyecto 1 – Pagina Web de Productos de Aseo ](https://github.com/jeancarlos-22/Morris.git)  
-- 🔹 [Proyecto 2 – Pagina Web de Empresa de sonido "Sonido Willy" ] 
-- 🔹 [Proyecto 3 – ]  
-
+ 
 ---
 
 ## 📫 Contacto  
